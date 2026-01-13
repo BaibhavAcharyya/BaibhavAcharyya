@@ -5,7 +5,7 @@ I’m passionate about learning, building, and collaborating on interesting proj
 
 ---
 
-## 👀 Interests
+👀 Interests
 - Software Development  
 - Open Source  
 - Problem Solving  
@@ -13,7 +13,7 @@ I’m passionate about learning, building, and collaborating on interesting proj
 
 ---
 
-## 🌱 Currently Learning
+🌱 Currently Learning
 - Data Structures & Algorithms
 - Machine Learning 
 - Web Development  
@@ -21,14 +21,14 @@ I’m passionate about learning, building, and collaborating on interesting proj
 
 ---
 
-## 💞️ Looking to Collaborate On
+💞️ Looking to Collaborate On
 - Open-source projects  
 - Beginner to intermediate developer-friendly projects  
 - Anything that helps me learn and grow as a developer  
 
 ---
 
-## 📫 How to Reach Me
+📫 How to Reach Me
 - GitHub: [@BaibhavAcharyya] (https://github.com/BaibhavAcharyya)
 - LinkedIn: (https://www.linkedin.com/in/baibhav-acharyya-30317731a/)
 
