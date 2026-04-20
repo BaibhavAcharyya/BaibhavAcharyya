@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Baibhav Acharyya
+# 👋 Hey, I’m Baibhav
 
 Welcome to my GitHub profile! 🚀  
 I’m passionate about learning, building, and collaborating on interesting projects.
