@@ -1,7 +1,7 @@
-# 👋 Hey, I’m Baibhav
+# Yo, I’m Baibhav
 
-Welcome to my GitHub profile! 🚀  
-I’m passionate about learning, building, and collaborating on interesting projects.
+Welcome to my GitHub🚀  
+I’m always learning.
 
 👀 Interests
 - Software Development  
