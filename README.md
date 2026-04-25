@@ -1,28 +1,15 @@
-# Yo, I’m Baibhav
+### Hey there!
 
-Welcome to my GitHub🚀  
-I’m always learning.
+My name is Baibhav, and i'm a 3rd year computer science student interested in all things Python, AI and Machine Learning!
 
-👀 Interests
-- Software Development  
-- Open Source  
-- Problem Solving  
-- Learning new technologies  
+-🔭 I'm currently building [Perceptron](https://github.com/BaibhavAcharyya/perceptron), an AI-powered cloud-based IDE.
 
-🌱 Currently Learning
-- Data Structures & Algorithms
-- Machine Learning 
-- Web Development  
-- New programming languages and frameworks  
+-🌱 Always learning and open to new challenges.
 
-💞️ Looking to Collaborate On
-- Open-source projects  
-- Beginner to intermediate developer-friendly projects  
-- Anything that helps me learn and grow as a developer  
+-✨ Looking forward to collaborate and work with all of you!
+  - 💡Send me ideas!
 
 📫 How to Reach Me
-- GitHub: [@BaibhavAcharyya] (https://github.com/BaibhavAcharyya)
+- Email: (baibhav.acharyya@gmail.com)
 - LinkedIn: (https://www.linkedin.com/in/baibhav-acharyya-30317731a/)
-
-⭐️ Feel free to explore my repositories and connect with me!
 
