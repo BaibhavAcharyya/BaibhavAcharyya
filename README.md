@@ -1,6 +1,6 @@
 ### Hey there!
 
-My name is Baibhav, and i'm a 3rd year computer science student interested in all things Python, AI and Machine Learning!
+My name is Baibhav, and i'm a 3rd year computer science student interested in all things Python, AI and Machine Learning.
 
 -🔭 I'm currently building [Perceptron](https://github.com/BaibhavAcharyya/perceptron), an AI-powered cloud-based IDE.
 
